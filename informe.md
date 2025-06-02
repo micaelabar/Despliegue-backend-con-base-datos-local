@@ -241,8 +241,8 @@ docker compose -f docker-compose-deploy.yml up --build
 - PostgreSQL correctamente configurado con persistencia de datos
 - Comunicación exitosa entre contenedores mediante red Docker interna
 ### Evidencia:
-<imag!![15 3](https://github.com/user-attachments/assets/efa664cf-a498-437b-915e-a6f9093ad7f9)
-## Conclusión:
+<imag!![image](https://github.com/user-attachments/assets/5cb103c8-b7ac-4ec4-a8dd-e6ee94de900a)
+
 El uso de Docker y Docker Compose permite desplegar entornos complejos de forma sencilla y reproducible. Mediante esta práctica, se consolidaron conocimientos en contenedores, integración de servicios, automatización con archivos YAML, y despliegue de aplicaciones Java. Además, se validó la importancia de la persistencia de datos usando volúmenes, lo cual es clave en aplicaciones reales.
 ## Bibliografía
 - Docker Docs: https://docs.docker.com/
